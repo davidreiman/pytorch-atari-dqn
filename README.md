@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/q-learning.jpg">
+  <img src="docs/images/q-learning.png">
 </p>
 
 ------------
